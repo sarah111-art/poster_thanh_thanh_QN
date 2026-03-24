@@ -91,9 +91,9 @@ export default function App() {
               <Sparkles size={8} /> HuyNailsBoss Academy
             </div>
             <h1 className="text-lg md:text-xl font-serif leading-tight">
-              Khóa học setup và vận hành tiệm nails <br />
+              Khóa học AI Marketing dành riêng cho tiệm Nail <br />
               <span className="text-gradient-gold italic">
-                bởi chuyên gia HuyNailsBoss
+                Bởi chuyên gia HuyNailsBoss và chuyên gia marketing Quốc Nguyễn
               </span>
             </h1>
           </div>
